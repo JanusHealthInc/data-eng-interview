@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "data-eng-interview"
+version = "1.0.0"
+description = "Janus Data Engineering Interview"
+authors = ["mitch.maegaard@janus-ai.com"]
+readme = "README.md"
+packages = [{include = "data_eng_interview"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+nbstripout = "^0.6.1"
+pre-commit = "^3.2.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
