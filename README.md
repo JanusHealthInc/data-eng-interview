@@ -1,4 +1,8 @@
-# data-eng-interview
+# Janus Data Engineering Interview
+
+## Format/Instructions
+
+The Janus Data Engineering technical assessment is composed of two sections; part one will be "take-home" and part two will be done live. Please have part one (take-home) completed to the best of your abilities _prior_ to the technical interview. For the take-home portion, follow the Setup section below and then work through the `tech_assessment` notebook. We have additional exercises (related to this notebook) that you will be working through during the live portion.
 
 ## Setup
 
@@ -7,7 +11,3 @@
 ![Colab GitHub Setup](images/colab_repo_setup.png)
 3. Select `JanusHealthInc/data-eng-interview` from the Repository dropdown & select `main` from the Branch dropdown
 4. Choose `tech_assessment.ipynb` from the avilable notebooks (should be the only one there)
-
-## Format/Instructions
-
-The technical assessment is composed of two sections; part one will be "take-home" and part two will be done live. For the take-home section, please work through the `tech_assessment` notebook that you just set up in Google Colab. We have additional exercises (related to this notebook) that you will be working through during the live portion.
